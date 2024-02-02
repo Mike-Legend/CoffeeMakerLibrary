@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoffeeMakerMoqTests.cs" />
+    <Compile Include="CoffeeMakerRollYourOwnContainer.cs" />
     <Compile Include="CoffeeMakerRollYourOwnTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
